@@ -17,6 +17,6 @@ ${TM_SELECTED_TEXT/(\s*).*/$1/m} End Matrices;
 	<key>tabTrigger</key>
 	<string>mat</string>
 	<key>uuid</key>
-	<string>2D7B6866-400B-4120-9EC1-0397E33169A1</string>
+	<string>B396B99E-18EA-4CD1-9935-AA13EAEBCE1D</string>
 </dict>
 </plist>
